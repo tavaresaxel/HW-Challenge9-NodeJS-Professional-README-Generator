@@ -67,10 +67,10 @@ ${renderLicenseSection(data.license)}
 ${data.test}
 
 ## Questions
-    <ul>
-      <li> <a href='mailto://${data.email}?subject="contact me"&body="Hello"'> Email Me </a></li>
-      <li> <a href='https://github.com/${data.username}'> My Github Profile </a> </li>
-    </ul>
+<ul>
+  <li> <a href='mailto://${data.email}?subject="contact me"&body="Hello"'> Email Me </a></li>
+  <li> <a href='https://github.com/${data.username}'> My Github Profile </a> </li>
+</ul>
 `;
 }
 
