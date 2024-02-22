@@ -57,11 +57,6 @@ ${data.contributing}
 
 ${renderLicenseSection(data.license)}
 
-
-
-
-
-
 ## Tests
 
 ${data.test}

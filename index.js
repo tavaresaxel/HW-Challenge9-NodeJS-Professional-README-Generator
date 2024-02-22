@@ -28,8 +28,24 @@ const questions = [{
     name: 'usage'
 },{
     type: 'input',
+    message: 'Please write about what or who helped contribute in this project:',
+    name: 'Contributing'
+},{
+    type: 'input',
+    message: 'Please describe which license you decided to choose for this project:',
+    name: 'license'
+},{
+    type: 'input',
     message: 'Please write examples on how to test the project:',
     name: 'test'
+},{
+    type: 'input',
+    message: 'Please write your email:',
+    name: 'email'
+},{
+    type: 'input',
+    message: 'Please write your github username:',
+    name: 'username'
 }];
 
 // TODO: Create a function to write README file
