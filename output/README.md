@@ -24,16 +24,11 @@ t
 
 ## Contributing
 
-undefined
+t
 
 ## License
 
 undefined
-
-
-
-
-
 
 ## Tests
 
@@ -41,6 +36,6 @@ t
 
 ## Questions
 <ul>
-  <li> <a href='mailto://undefined?subject="contact me"&body="Hello"'> Email Me </a></li>
-  <li> <a href='https://github.com/undefined'> My Github Profile </a> </li>
+  <li> <a href='mailto://t?subject="contact me"&body="Hello"'> Email Me </a></li>
+  <li> <a href='https://github.com/t'> My Github Profile </a> </li>
 </ul>

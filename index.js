@@ -29,11 +29,11 @@ const questions = [{
 },{
     type: 'input',
     message: 'Please write about what or who helped contribute in this project:',
-    name: 'Contributing'
+    name: 'contributing'
 },{
     type: 'input',
     message: 'Please describe which license you decided to choose for this project:',
-    name: 'license'
+    name: 'licenseNote'
 },{
     type: 'input',
     message: 'Please write examples on how to test the project:',
