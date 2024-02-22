@@ -4,7 +4,7 @@
 
 ## Description
 
-The project focuses on helping the user be able to create a professional read me really quick by just naswering this prompts. It helps speed up the process of making a read me.
+The project focuses on helping the user be able to create a professional README file really quick by just answering the prompts that pop up once the program is run. It helps speed up the process of making a professional README.
 
 ## Table of Contents (Optional)
 
@@ -16,7 +16,7 @@ The project focuses on helping the user be able to create a professional read me
 
 ## Installation
 
-To install the project first Pull the code from my github Link at the bottom of my README then once you have the code type in console "npi i" to download the necessary npm being used.
+To install the project first pull the code from my github link at the bottom of my README, then once you have the code type in console "npi i" to download the necessary npm being used which in this case is inquirer.
 
 ## Usage
 
@@ -24,7 +24,7 @@ To use the project simply go to the terminal and type "node index.js" the code w
 
 ## Contributing
 
-This project was possible thanks to npm inquirer.
+This project was possible thanks to the npm inquirer.
 
 ## License
 
@@ -32,7 +32,7 @@ I decided to use the MIT license for this project.
 
 ## Tests
 
-best way to test the project and make sure the readme is being created and populating the information is the firt launch just type a random letter and submmit just to see if the information is being populated correctly .
+Best way to test the project and make sure the README is being created and populating the correct information is by doing a trial run. On the  first launch just type a random letter to answer the questions all the way down until you see success. After that make sure the README is being generated in the output file and open the read me in preview to see if the information is being populated correctly.
 
 ## Questions
 <ul>
